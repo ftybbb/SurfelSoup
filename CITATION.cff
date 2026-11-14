@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use SurfelSoup, please cite the ACM Multimedia 2026 paper."
+title: SurfelSoup
+authors:
+  - family-names: Fan
+    given-names: Tingyu
+  - family-names: Gong
+    given-names: Ran
+  - family-names: Hu
+    given-names: Yueyu
+  - family-names: Wang
+    given-names: Yao
+repository-code: https://github.com/ftybbb/SurfelSoup
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Fan
+      given-names: Tingyu
+    - family-names: Gong
+      given-names: Ran
+    - family-names: Hu
+      given-names: Yueyu
+    - family-names: Wang
+      given-names: Yao
+  title: "SurfelSoup: Learned Point Cloud Geometry Compression With a Probabilistic SurfelTree Representation"
+  collection-title: Proceedings of the 34th ACM International Conference on Multimedia
+  year: 2026
+  start: 1773
+  end: 1781
+  doi: 10.1145/3767308.3835549
+  url: https://doi.org/10.1145/3767308.3835549
