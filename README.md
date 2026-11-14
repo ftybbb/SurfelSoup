@@ -1,15 +1,18 @@
-# SurfelSoup_v1
+# SurfelSoup
 
 Official code release for:
 
-**SurfelSoup: Learned Point Cloud Geometry Compression With a Probablistic SurfelTree Representation**  
+**SurfelSoup: Learned Point Cloud Geometry Compression With a Probabilistic SurfelTree Representation**  
 Tingyu Fan, Ran Gong, Yueyu Hu, Yao Wang
+
+**ACM Multimedia 2026 (ACM MM '26) — Oral Presentation & Outstanding Paper**
 
 ## News
 
-- ACM Multimedia (ACM MM) accepted.
-- arXiv: https://arxiv.org/abs/2602.00186
-- DOI: https://doi.org/10.1145/3767308.3835549
+- **November 2026:** Selected for an **Oral presentation** and recognized as an **Outstanding Paper** at ACM Multimedia (ACM MM) 2026.
+- **November 2026:** The paper is published in the ACM MM '26 proceedings (pp. 1773–1781).
+- **Published paper:** https://doi.org/10.1145/3767308.3835549
+- **arXiv preprint:** https://arxiv.org/abs/2602.00186
 
 ## Overview
 
@@ -166,8 +169,17 @@ paths with local paths.
 
 ## Citation
 
-TBD
+If you use SurfelSoup in your research, please cite the published ACM Multimedia 2026 paper:
 
-ACM MM accepted version DOI (as provided by authors):
-
-- 10.1145/3767308.3835549
+```bibtex
+@inproceedings{fan2026surfelsoup,
+  author = {Fan, Tingyu and Gong, Ran and Hu, Yueyu and Wang, Yao},
+  title = {SurfelSoup: Learned Point Cloud Geometry Compression With a Probabilistic SurfelTree Representation},
+  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
+  year = {2026},
+  pages = {1773--1781},
+  publisher = {Association for Computing Machinery},
+  doi = {10.1145/3767308.3835549},
+  url = {https://doi.org/10.1145/3767308.3835549}
+}
+```
